@@ -97,7 +97,7 @@ flex-direction: column;
   padding: 10px;
 }
 #introduction li img{
-  max-width: 500px;
+  max-width: 300px;
   margin: 50px;
 }
 #introduction li .toto-img{
